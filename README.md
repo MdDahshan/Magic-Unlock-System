@@ -1,4 +1,10 @@
-# Magic-Unlock-System
+
+# Magic-Unlock-System-app
+ video app and ChatGPT Method
+
+https://github.com/user-attachments/assets/b6f894fd-80e9-437b-8ec0-2e42336bdd5a
+
+
 ### **Project Concept (Professional Version)**
 
 This concept revolves around a seamless magic-style experience created using **three integrated mobile applications**:
