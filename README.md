@@ -46,3 +46,14 @@ The system includes four powerful features designed to enhance the illusion:
 The combination of these three apps produces a convincing, smooth digital illusion. It gives the impression that the phone — and even the AI assistant — can read the spectator’s mind, uncover hidden secrets, and recall the exact password typed moments earlier.
 
 This concept can be packaged as a fully marketable magic app system for creators, performers, and digital illusionists.
+
+---
+
+### **Contact & Purchase Information**
+
+You can contact me directly to discuss the details and agree on the price if you’re interested in obtaining the application.
+The system currently runs with an interface designed specifically for Android,
+but all three applications are built entirely using Flutter,
+which means an iOS version can be developed easily upon request.
+
+I’ll be happy to answer any questions and provide a demo version if needed.
